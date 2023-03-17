@@ -1,9 +1,9 @@
 {
-    "name": "@taskli-st/pretter-config",
+    "name": "@taskli-st/prettier-config",
     "version": "1.0.1",
     "description": "Prettier configuration for our projects",
     "license": "MIT",
-    "repository": "taskli-st/pretter-config",
+    "repository": "taskli-st/prettier-config",
     "main": "index.json",
     "scripts": {
         "postinstall": "node ./post-install.js"
@@ -13,15 +13,15 @@
     },
     "files": [
         "index.json",
-        ".pretterignore",
-        ".pretterrc.js",
+        ".prettierignore",
+        ".prettierrc.js",
         "post-install.js"
     ],
     "publishConfig": {
         "access": "public"
     },
     "keywords": [
-        "pretter",
-        "pretterconfig"
+        "prettier",
+        "prettierconfig"
     ]
 }
