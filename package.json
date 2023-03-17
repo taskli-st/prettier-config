@@ -1,6 +1,6 @@
 {
     "name": "@taskli-st/pretter-config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Prettier configuration for our projects",
     "license": "MIT",
     "repository": "taskli-st/pretter-config",
